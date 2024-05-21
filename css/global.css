@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+#gameCanvas {
+  background: linear-gradient(180deg, skyblue 70%, #99FF99 70%);;
+}
